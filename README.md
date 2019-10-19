@@ -1,5 +1,5 @@
 # react-breakingbad
-Generador de frases con react
+Phrase generator with react
 ---
 
 This project demo can be found at:
